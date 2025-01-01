@@ -1,0 +1,340 @@
+[06:12:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:12:54] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:12:54] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:12:54] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:12:54] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:12:54] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:12:54] [ServerMain/INFO]: Reloading ResourceManager: Default
+[06:12:55] [Worker-Main-4/INFO]: Loaded 7 recipes
+[06:12:56] [Worker-Main-4/INFO]: Loaded 1141 advancements
+[06:12:59] [Server thread/INFO]: Starting minecraft server version 1.18
+[06:12:59] [Server thread/INFO]: Loading properties
+[06:12:59] [Server thread/INFO]: Default game type: SURVIVAL
+[06:12:59] [Server thread/INFO]: Generating keypair
+[06:12:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:12:59] [Server thread/INFO]: Using epoll channel type
+[06:12:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:12:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:12:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:12:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:12:59] [Server thread/INFO]: Preparing level "world"
+[06:13:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:13:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:13:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:13:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[06:13:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[06:13:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:13:09] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:13:10] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:13:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[06:13:11] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[06:13:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:13:12] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[06:13:12] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[06:13:13] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[06:13:13] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[06:13:14] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[06:13:14] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[06:13:15] [Worker-Main-4/INFO]: Preparing spawn area: 3%
+[06:13:15] [Worker-Main-6/INFO]: Preparing spawn area: 3%
+[06:13:16] [Worker-Main-6/INFO]: Preparing spawn area: 3%
+[06:13:16] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[06:13:17] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[06:13:17] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[06:13:18] [Worker-Main-4/INFO]: Preparing spawn area: 5%
+[06:13:18] [Worker-Main-5/INFO]: Preparing spawn area: 6%
+[06:13:19] [Worker-Main-6/INFO]: Preparing spawn area: 7%
+[06:13:19] [Worker-Main-4/INFO]: Preparing spawn area: 7%
+[06:13:20] [Worker-Main-4/INFO]: Preparing spawn area: 9%
+[06:13:20] [Worker-Main-6/INFO]: Preparing spawn area: 9%
+[06:13:21] [Worker-Main-5/INFO]: Preparing spawn area: 9%
+[06:13:21] [Worker-Main-5/INFO]: Preparing spawn area: 9%
+[06:13:22] [Worker-Main-6/INFO]: Preparing spawn area: 10%
+[06:13:22] [Worker-Main-6/INFO]: Preparing spawn area: 12%
+[06:13:23] [Worker-Main-5/INFO]: Preparing spawn area: 13%
+[06:13:23] [Worker-Main-4/INFO]: Preparing spawn area: 13%
+[06:13:24] [Worker-Main-6/INFO]: Preparing spawn area: 14%
+[06:13:24] [Worker-Main-6/INFO]: Preparing spawn area: 15%
+[06:13:25] [Worker-Main-4/INFO]: Preparing spawn area: 16%
+[06:13:25] [Worker-Main-4/INFO]: Preparing spawn area: 16%
+[06:13:26] [Worker-Main-4/INFO]: Preparing spawn area: 17%
+[06:13:26] [Worker-Main-4/INFO]: Preparing spawn area: 19%
+[06:13:27] [Worker-Main-6/INFO]: Preparing spawn area: 20%
+[06:13:27] [Worker-Main-6/INFO]: Preparing spawn area: 20%
+[06:13:28] [Worker-Main-4/INFO]: Preparing spawn area: 22%
+[06:13:28] [Worker-Main-4/INFO]: Preparing spawn area: 23%
+[06:13:29] [Worker-Main-6/INFO]: Preparing spawn area: 23%
+[06:13:29] [Worker-Main-4/INFO]: Preparing spawn area: 24%
+[06:13:30] [Worker-Main-4/INFO]: Preparing spawn area: 25%
+[06:13:30] [Worker-Main-5/INFO]: Preparing spawn area: 26%
+[06:13:31] [Worker-Main-5/INFO]: Preparing spawn area: 28%
+[06:13:31] [Worker-Main-5/INFO]: Preparing spawn area: 29%
+[06:13:32] [Worker-Main-4/INFO]: Preparing spawn area: 31%
+[06:13:32] [Worker-Main-6/INFO]: Preparing spawn area: 31%
+[06:13:33] [Worker-Main-6/INFO]: Preparing spawn area: 32%
+[06:13:33] [Worker-Main-6/INFO]: Preparing spawn area: 33%
+[06:13:34] [Worker-Main-6/INFO]: Preparing spawn area: 34%
+[06:13:34] [Worker-Main-5/INFO]: Preparing spawn area: 35%
+[06:13:35] [Worker-Main-5/INFO]: Preparing spawn area: 37%
+[06:13:35] [Worker-Main-6/INFO]: Preparing spawn area: 38%
+[06:13:36] [Worker-Main-4/INFO]: Preparing spawn area: 39%
+[06:13:36] [Worker-Main-6/INFO]: Preparing spawn area: 41%
+[06:13:37] [Worker-Main-5/INFO]: Preparing spawn area: 42%
+[06:13:37] [Worker-Main-5/INFO]: Preparing spawn area: 43%
+[06:13:38] [Worker-Main-5/INFO]: Preparing spawn area: 44%
+[06:13:38] [Worker-Main-4/INFO]: Preparing spawn area: 45%
+[06:13:39] [Worker-Main-6/INFO]: Preparing spawn area: 46%
+[06:13:39] [Worker-Main-6/INFO]: Preparing spawn area: 47%
+[06:13:40] [Worker-Main-6/INFO]: Preparing spawn area: 48%
+[06:13:40] [Worker-Main-5/INFO]: Preparing spawn area: 49%
+[06:13:41] [Worker-Main-5/INFO]: Preparing spawn area: 51%
+[06:13:41] [Worker-Main-6/INFO]: Preparing spawn area: 52%
+[06:13:42] [Worker-Main-6/INFO]: Preparing spawn area: 53%
+[06:13:42] [Worker-Main-6/INFO]: Preparing spawn area: 54%
+[06:13:43] [Worker-Main-4/INFO]: Preparing spawn area: 55%
+[06:13:43] [Worker-Main-4/INFO]: Preparing spawn area: 57%
+[06:13:44] [Worker-Main-4/INFO]: Preparing spawn area: 58%
+[06:13:44] [Worker-Main-6/INFO]: Preparing spawn area: 60%
+[06:13:45] [Worker-Main-6/INFO]: Preparing spawn area: 61%
+[06:13:45] [Worker-Main-6/INFO]: Preparing spawn area: 62%
+[06:13:46] [Worker-Main-4/INFO]: Preparing spawn area: 63%
+[06:13:46] [Worker-Main-5/INFO]: Preparing spawn area: 65%
+[06:13:47] [Worker-Main-6/INFO]: Preparing spawn area: 66%
+[06:13:47] [Worker-Main-6/INFO]: Preparing spawn area: 68%
+[06:13:48] [Worker-Main-4/INFO]: Preparing spawn area: 68%
+[06:13:48] [Worker-Main-6/INFO]: Preparing spawn area: 69%
+[06:13:49] [Worker-Main-5/INFO]: Preparing spawn area: 70%
+[06:13:49] [Worker-Main-5/INFO]: Preparing spawn area: 72%
+[06:13:50] [Worker-Main-4/INFO]: Preparing spawn area: 73%
+[06:13:50] [Worker-Main-5/INFO]: Preparing spawn area: 74%
+[06:13:51] [Worker-Main-6/INFO]: Preparing spawn area: 76%
+[06:13:51] [Worker-Main-6/INFO]: Preparing spawn area: 78%
+[06:13:52] [Worker-Main-5/INFO]: Preparing spawn area: 78%
+[06:13:52] [Worker-Main-4/INFO]: Preparing spawn area: 80%
+[06:13:53] [Worker-Main-5/INFO]: Preparing spawn area: 82%
+[06:13:53] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[06:13:54] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[06:13:54] [Worker-Main-6/INFO]: Preparing spawn area: 85%
+[06:13:55] [Worker-Main-4/INFO]: Preparing spawn area: 87%
+[06:13:55] [Worker-Main-4/INFO]: Preparing spawn area: 88%
+[06:13:56] [Worker-Main-4/INFO]: Preparing spawn area: 89%
+[06:13:56] [Worker-Main-4/INFO]: Preparing spawn area: 90%
+[06:13:57] [Worker-Main-6/INFO]: Preparing spawn area: 92%
+[06:13:57] [Worker-Main-4/INFO]: Preparing spawn area: 93%
+[06:13:58] [Worker-Main-5/INFO]: Preparing spawn area: 95%
+[06:13:58] [Worker-Main-4/INFO]: Preparing spawn area: 96%
+[06:13:59] [Worker-Main-4/INFO]: Preparing spawn area: 97%
+[06:13:59] [Worker-Main-4/INFO]: Preparing spawn area: 99%
+[06:14:00] [Server thread/INFO]: Time elapsed: 52837 ms
+[06:14:00] [Server thread/INFO]: Done (60.621s)! For help, type "help"
+[06:14:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:14:00] [Server thread/INFO]: /home/codespace/.python/current/bin/python3 /workspaces/scaling-journey/msx.py<--[HERE]
+[06:14:30] [Server thread/INFO]: nicolasxpazx[/127.71.37.151:40653] logged in with entity id 259 at (8.5, 76.0, -46.5)
+[06:14:30] [Server thread/INFO]: nicolasxpazx joined the game
+[06:14:39] [Server thread/INFO]: GiovanyBy14[/127.71.37.151:34191] logged in with entity id 417 at (18.5, 98.0, -48.5)
+[06:14:39] [Server thread/INFO]: GiovanyBy14 joined the game
+[06:14:41] [Server thread/INFO]: FaacuXx7[/127.71.37.151:46175] logged in with entity id 438 at (7.5, 86.0, -39.5)
+[06:14:41] [Server thread/INFO]: FaacuXx7 joined the game
+[06:14:42] [Server thread/INFO]: Noxxxx[/127.71.37.151:47389] logged in with entity id 440 at (13.5, 86.0, -42.5)
+[06:14:42] [Server thread/INFO]: Noxxxx joined the game
+[06:15:01] [Server thread/INFO]: Made Noxxxx a server operator
+[06:15:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=95, z=-58}
+[06:15:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=13, y=101, z=-36}
+[06:15:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=13, y=101, z=-36}
+[06:15:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=13, y=101, z=-36}
+[06:15:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=96, z=-58}
+[06:15:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=97, z=-60}
+[06:15:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=96, z=-58}
+[06:15:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=97, z=-60}
+[06:15:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=96, z=-59}
+[06:15:11] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=96, z=-58}
+[06:15:11] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=97, z=-60}
+[06:15:11] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=96, z=-59}
+[06:15:13] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=14, y=101, z=-36}
+[06:15:14] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=96, z=-59}
+[06:15:14] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=14, y=101, z=-36}
+[06:15:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=14, y=101, z=-36}
+[06:15:17] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=96, z=-59}
+[06:15:17] [Server thread/INFO]: [Noxxxx: Teleported FaacuXx7 to Noxxxx]
+[06:15:23] [Server thread/INFO]: [Noxxxx: Teleported FaacuXx7 to Noxxxx]
+[06:15:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=14, y=101, z=-36}
+[06:15:27] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=14, y=101, z=-36}
+[06:15:33] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=14, y=101, z=-36}
+[06:15:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=14, y=101, z=-36}
+[06:15:38] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=14, y=101, z=-36}
+[06:15:41] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=14, y=101, z=-36}
+[06:15:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=14, y=101, z=-36}
+[06:15:46] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=14, y=101, z=-36}
+[06:16:21] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=12, y=98, z=-36} gh{x=14, y=101, z=-36}
+[06:16:28] [Server thread/INFO]: GiovanyBy14 has made the advancement [Stone Age]
+[06:16:42] [Server thread/INFO]: GiovanyBy14 has made the advancement [Getting an Upgrade]
+[06:16:48] [Server thread/INFO]: Noxxxx has made the advancement [Stone Age]
+[06:17:10] [Server thread/INFO]: nicolasxpazx hit the ground too hard
+[06:17:31] [Server thread/INFO]: FaacuXx7 has made the advancement [Stone Age]
+[06:17:44] [Server thread/INFO]: [Noxxxx: Kicked FaacuXx7: Kicked by an operator]
+[06:17:44] [Server thread/INFO]: FaacuXx7 lost connection: Kicked by an operator
+[06:17:44] [Server thread/INFO]: FaacuXx7 left the game
+[06:17:48] [Server thread/INFO]: FaacuXx7[/127.71.37.151:45701] logged in with entity id 1244 at (-39.520432634285626, 66.0, -111.76427926324965)
+[06:17:48] [Server thread/INFO]: FaacuXx7 joined the game
+[06:17:58] [Server thread/INFO]: FaacuXx7 has made the advancement [Getting an Upgrade]
+[06:18:02] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=34, y=108, z=-43} gh{x=31, y=110, z=-32}
+[06:18:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=26, y=107, z=-31} gh{x=26, y=107, z=-32}
+[06:18:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=26, y=107, z=-31} gh{x=25, y=108, z=-32}
+[06:18:09] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=26, y=107, z=-31} gh{x=24, y=109, z=-34}
+[06:18:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=26, y=107, z=-31} gh{x=24, y=109, z=-34}
+[06:18:11] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=26, y=107, z=-31} gh{x=27, y=109, z=-35}
+[06:18:12] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=26, y=107, z=-31} gh{x=28, y=109, z=-34}
+[06:18:12] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=26, y=107, z=-31} gh{x=28, y=109, z=-34}
+[06:18:14] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=30, y=107, z=-29} gh{x=26, y=108, z=-33}
+[06:18:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=30, y=107, z=-29} gh{x=25, y=108, z=-32}
+[06:19:49] [Server thread/INFO]: nicolasxpazx fell from a high place
+[06:19:50] [Server thread/INFO]: FaacuXx7 has made the advancement [Monster Hunter]
+[06:20:28] [Server thread/INFO]: [Noxxxx: Set own game mode to Creative Mode]
+[06:21:06] [Server thread/INFO]: GiovanyBy14 fell from a high place
+[06:21:58] [Server thread/INFO]: <nicolasxpazx> 224 205
+[06:22:01] [Server thread/INFO]: <nicolasxpazx> 224 -205
+[06:22:08] [Server thread/INFO]: [Noxxxx: Created new objective [Muertes]]
+[06:22:52] [Server thread/INFO]: [Noxxxx: Set display slot sidebar to show objective Muertes]
+[06:22:55] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=13, y=101, z=-36}
+[06:22:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=102, z=-36}
+[06:23:01] [Server thread/INFO]: nicolasxpazx fell out of the world
+[06:23:01] [Server thread/INFO]: [Noxxxx: Killed nicolasxpazx]
+[06:23:19] [Server thread/INFO]: [Noxxxx: Set own game mode to Survival Mode]
+[06:23:49] [Server thread/INFO]: GiovanyBy14 fell from a high place
+[06:23:59] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=98, z=-38}
+[06:24:00] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=15, y=97, z=-38}
+[06:24:00] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=97, z=-38}
+[06:24:17] [Server thread/INFO]: [Noxxxx: Reset all scores for 4 entities]
+[06:24:43] [Server thread/INFO]: [Noxxxx: Teleported Noxxxx to Noxxxx]
+[06:24:50] [Server thread/INFO]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[06:25:19] [Server thread/INFO]: nicolasxpazx has made the advancement [Sweet Dreams]
+[06:25:26] [Server thread/INFO]: Noxxxx was slain by Iron Golem
+[06:25:27] [Server thread/INFO]: Skipping update from removed player 'adj['Noxxxx'/440, l='ServerLevel[world]', x=247.99, y=65.62, z=-208.96, removed=KILLED]'
+[06:25:27] [Server thread/INFO]: Skipping update from removed player 'adj['Noxxxx'/440, l='ServerLevel[world]', x=248.02, y=65.16, z=-208.98, removed=KILLED]'
+[06:25:27] [Server thread/INFO]: Skipping update from removed player 'adj['Noxxxx'/440, l='ServerLevel[world]', x=248.05, y=64.63, z=-208.99, removed=KILLED]'
+[06:25:27] [Server thread/INFO]: Skipping update from removed player 'adj['Noxxxx'/440, l='ServerLevel[world]', x=248.08, y=64.03, z=-209.01, removed=KILLED]'
+[06:25:27] [Server thread/INFO]: Skipping update from removed player 'adj['Noxxxx'/440, l='ServerLevel[world]', x=248.10, y=64.00, z=-209.02, removed=KILLED]'
+[06:25:28] [Server thread/INFO]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[06:25:31] [Server thread/INFO]: GiovanyBy14 was shot by Skeleton
+[06:25:49] [Server thread/INFO]: [Noxxxx: Teleported GiovanyBy14 to FaacuXx7]
+[06:26:06] [Server thread/INFO]: GiovanyBy14 has made the advancement [Sweet Dreams]
+[06:26:55] [Server thread/INFO]: Noxxxx has made the advancement [Sweet Dreams]
+[06:27:33] [Server thread/INFO]: FaacuXx7 has made the advancement [Sweet Dreams]
+[06:27:36] [Server thread/INFO]: <FaacuXx7> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[06:27:38] [Server thread/INFO]: <FaacuXx7> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[06:29:38] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=247, y=71, z=-244} gh{x=247, y=69, z=-244}
+[06:30:28] [Server thread/INFO]: Noxxxx has made the advancement [Acquire Hardware]
+[06:33:02] [Server thread/INFO]: [Noxxxx: Teleported GiovanyBy14 to FaacuXx7]
+[06:33:11] [Server thread/INFO]: [Noxxxx: Teleported Noxxxx to FaacuXx7]
+[06:34:09] [Server thread/INFO]: [Noxxxx: Teleported Noxxxx to FaacuXx7]
+[06:35:16] [Server thread/INFO]: GiovanyBy14 fell out of the world
+[06:35:16] [Server thread/INFO]: [Noxxxx: Killed GiovanyBy14]
+[06:35:17] [Server thread/INFO]: Skipping update from removed player 'adj['GiovanyBy14'/417, l='ServerLevel[world]', x=470.41, y=7.00, z=-372.70, removed=KILLED]'
+[06:35:30] [Server thread/INFO]: [Noxxxx: Teleported GiovanyBy14 to FaacuXx7]
+[06:35:51] [Server thread/INFO]: [Noxxxx: Gamerule keepInventory is now set to: true]
+[06:36:01] [Server thread/INFO]: GiovanyBy14 fell out of the world
+[06:36:01] [Server thread/INFO]: [Noxxxx: Killed GiovanyBy14]
+[06:36:04] [Server thread/INFO]: [Noxxxx: Teleported GiovanyBy14 to FaacuXx7]
+[06:36:04] [Server thread/INFO]: Skipping update from removed player 'adj['GiovanyBy14'/417, l='ServerLevel[world]', x=446.41, y=-20.00, z=-388.16, removed=KILLED]'
+[06:36:09] [Server thread/INFO]: [Noxxxx: Teleported GiovanyBy14 to FaacuXx7]
+[06:36:26] [Server thread/INFO]: [Noxxxx: Reset all scores for 4 entities]
+[06:37:11] [Server thread/INFO]: GiovanyBy14 has made the advancement [Acquire Hardware]
+[06:37:16] [Server thread/INFO]: GiovanyBy14 has made the advancement [Isn't It Iron Pick]
+[06:37:45] [Server thread/INFO]: GiovanyBy14 has made the advancement [Diamonds!]
+[06:37:53] [Server thread/INFO]: GiovanyBy14 has made the advancement [Monster Hunter]
+[06:38:17] [Server thread/INFO]: GiovanyBy14 lost connection: Disconnected
+[06:38:17] [Server thread/INFO]: GiovanyBy14 left the game
+[06:38:32] [Server thread/INFO]: <FaacuXx7> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[06:38:36] [Server thread/INFO]: GiovanyBy14[/127.71.37.151:33967] logged in with entity id 13581 at (483.9842162852029, -34.0, -394.81853888643843)
+[06:38:36] [Server thread/INFO]: GiovanyBy14 joined the game
+[06:39:38] [Server thread/INFO]: GiovanyBy14 was blown up by Creeper
+[06:39:39] [Server thread/INFO]: Skipping update from removed player 'adj['GiovanyBy14'/13581, l='ServerLevel[world]', x=508.70, y=-42.00, z=-354.07, removed=KILLED]'
+[06:39:39] [Server thread/INFO]: Skipping update from removed player 'adj['GiovanyBy14'/13581, l='ServerLevel[world]', x=508.70, y=-42.00, z=-354.13, removed=KILLED]'
+[06:39:39] [Server thread/INFO]: Skipping update from removed player 'adj['GiovanyBy14'/13581, l='ServerLevel[world]', x=508.70, y=-42.00, z=-354.16, removed=KILLED]'
+[06:40:09] [Server thread/INFO]: [Noxxxx: Teleported GiovanyBy14 to FaacuXx7]
+[06:40:37] [Server thread/INFO]: Noxxxx has made the advancement [Isn't It Iron Pick]
+[06:41:08] [Server thread/INFO]: nicolasxpazx has made the advancement [Light as a Rabbit]
+[06:44:09] [Server thread/INFO]: GiovanyBy14 tried to swim in lava
+[06:44:10] [Server thread/INFO]: Skipping update from removed player 'adj['GiovanyBy14'/13581, l='ServerLevel[world]', x=344.13, y=-32.65, z=-404.98, removed=KILLED]'
+[06:44:10] [Server thread/INFO]: Skipping update from removed player 'adj['GiovanyBy14'/13581, l='ServerLevel[world]', x=344.13, y=-32.69, z=-404.98, removed=KILLED]'
+[06:44:10] [Server thread/INFO]: Skipping update from removed player 'adj['GiovanyBy14'/13581, l='ServerLevel[world]', x=344.14, y=-32.73, z=-404.98, removed=KILLED]'
+[06:44:10] [Server thread/INFO]: Skipping update from removed player 'adj['GiovanyBy14'/13581, l='ServerLevel[world]', x=344.14, y=-32.78, z=-404.98, removed=KILLED]'
+[06:44:10] [Server thread/INFO]: Skipping update from removed player 'adj['GiovanyBy14'/13581, l='ServerLevel[world]', x=344.15, y=-32.82, z=-404.98, removed=KILLED]'
+[06:44:38] [Server thread/INFO]: <Noxxxx> 3644
+[06:44:46] [Server thread/INFO]: <Noxxxx> 365 -49
+[06:44:49] [Server thread/INFO]: GiovanyBy14 fell from a high place
+[06:44:53] [Server thread/INFO]: <Noxxxx> 365 -30
+[06:45:17] [Server thread/INFO]: FaacuXx7 was blown up by Creeper
+[06:45:18] [Server thread/INFO]: Skipping update from removed player 'adj['FaacuXx7'/1244, l='ServerLevel[world]', x=441.63, y=3.05, z=-386.32, removed=KILLED]'
+[06:45:18] [Server thread/INFO]: Skipping update from removed player 'adj['FaacuXx7'/1244, l='ServerLevel[world]', x=441.70, y=2.40, z=-386.33, removed=KILLED]'
+[06:45:18] [Server thread/INFO]: Skipping update from removed player 'adj['FaacuXx7'/1244, l='ServerLevel[world]', x=441.76, y=1.69, z=-386.35, removed=KILLED]'
+[06:45:18] [Server thread/INFO]: Skipping update from removed player 'adj['FaacuXx7'/1244, l='ServerLevel[world]', x=441.81, y=0.91, z=-386.36, removed=KILLED]'
+[06:45:18] [Server thread/INFO]: Skipping update from removed player 'adj['FaacuXx7'/1244, l='ServerLevel[world]', x=441.86, y=0.06, z=-386.37, removed=KILLED]'
+[06:45:18] [Server thread/INFO]: Skipping update from removed player 'adj['FaacuXx7'/1244, l='ServerLevel[world]', x=441.90, y=-0.84, z=-386.38, removed=KILLED]'
+[06:45:31] [Server thread/INFO]: [Noxxxx: Gave 100000000 experience points to FaacuXx7]
+[06:45:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=14, y=90, z=-42}
+[06:45:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=15, y=91, z=-42}
+[06:45:39] [Server thread/INFO]: [Noxxxx: Gave 0 experience points to FaacuXx7]
+[06:45:46] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=21, y=98, z=-46}
+[06:45:57] [Server thread/INFO]: GiovanyBy14 drowned
+[06:45:58] [Server thread/INFO]: [Noxxxx: Gave 100000000 experience points to FaacuXx7]
+[06:45:59] [Server thread/INFO]: [Noxxxx: Gave 100000000 experience points to FaacuXx7]
+[06:45:59] [Server thread/INFO]: [Noxxxx: Gave 100000000 experience points to FaacuXx7]
+[06:46:00] [Server thread/INFO]: nicolasxpazx has made the advancement [Stone Age]
+[06:46:00] [Server thread/INFO]: [Noxxxx: Gave 100000000 experience points to FaacuXx7]
+[06:46:00] [Server thread/INFO]: [Noxxxx: Gave 100000000 experience points to FaacuXx7]
+[06:46:01] [Server thread/INFO]: [Noxxxx: Gave 100000000 experience points to FaacuXx7]
+[06:46:01] [Server thread/INFO]: [Noxxxx: Gave 100000000 experience points to FaacuXx7]
+[06:46:02] [Server thread/INFO]: [Noxxxx: Gave 100000000 experience points to FaacuXx7]
+[06:46:02] [Server thread/INFO]: [Noxxxx: Gave 100000000 experience points to FaacuXx7]
+[06:46:03] [Server thread/INFO]: [Noxxxx: Gave 100000000 experience points to FaacuXx7]
+[06:46:05] [Server thread/INFO]: [Noxxxx: Gave 0 experience points to FaacuXx7]
+[06:46:23] [Server thread/INFO]: FaacuXx7 fell from a high place
+[06:46:24] [Server thread/INFO]: Skipping update from removed player 'adj['FaacuXx7'/1244, l='ServerLevel[world]', x=8.40, y=66.00, z=-54.15, removed=KILLED]'
+[06:46:38] [Server thread/INFO]: nicolasxpazx has made the advancement [Getting an Upgrade]
+[06:46:46] [Server thread/INFO]: [Noxxxx: Gave 0 experience points to FaacuXx7]
+[06:47:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=12, y=98, z=-35}
+[06:48:25] [Server thread/INFO]: [Noxxxx: Applied effect Levitation to FaacuXx7]
+[06:48:54] [Server thread/INFO]: [Noxxxx: Applied effect Levitation to FaacuXx7]
+[06:49:25] [Server thread/INFO]: [Noxxxx: Applied effect Jump Boost to 4 targets]
+[06:49:54] [Server thread/INFO]: [Noxxxx: Applied effect Levitation to 4 targets]
+[06:50:26] [Server thread/INFO]: FaacuXx7 fell from a high place
+[06:50:27] [Server thread/INFO]: Skipping update from removed player 'adj['FaacuXx7'/1244, l='ServerLevel[world]', x=9.56, y=95.00, z=-28.02, removed=KILLED]'
+[06:50:27] [Server thread/INFO]: Skipping update from removed player 'adj['FaacuXx7'/1244, l='ServerLevel[world]', x=9.62, y=95.00, z=-28.02, removed=KILLED]'
+[06:50:27] [Server thread/INFO]: Skipping update from removed player 'adj['FaacuXx7'/1244, l='ServerLevel[world]', x=9.69, y=95.00, z=-28.02, removed=KILLED]'
+[06:50:27] [Server thread/INFO]: Skipping update from removed player 'adj['FaacuXx7'/1244, l='ServerLevel[world]', x=9.76, y=95.00, z=-28.02, removed=KILLED]'
+[06:50:31] [Server thread/INFO]: Villager bne['Cartographer'/17239, l='ServerLevel[world]', x=260.70, y=82.00, z=-167.47] died, message: 'Cartographer was slain by Zombie'
+[06:50:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=9, y=93, z=-32}
+[06:50:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=0, y=0, z=0} gh{x=8, y=93, z=-32}
+[06:50:54] [Server thread/INFO]: <FaacuXx7> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[06:50:58] [Server thread/INFO]: [Noxxxx: Applied effect Levitation to 4 targets]
+[06:51:22] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=8, y=93, z=-31} gh{x=11, y=93, z=-33}
+[06:51:30] [Server thread/INFO]: Noxxxx fell from a high place
+[06:51:52] [Server thread/INFO]: <FaacuXx7> ZZZZZZZ
+[06:51:53] [Server thread/INFO]: <FaacuXx7> ZZZZZZ
+[06:51:55] [Server thread/INFO]: <FaacuXx7> ZZZZZZ
+[06:51:56] [Server thread/INFO]: <FaacuXx7> ZZZZZZ
+[06:51:57] [Server thread/INFO]: <FaacuXx7> ZZZZZZZ
+[06:51:59] [Server thread/INFO]: <FaacuXx7> ZZZZZZZ
+[06:52:00] [Server thread/INFO]: <FaacuXx7> ZZZZZ
+[06:52:07] [Server thread/INFO]: <nicolasxpazx> zzzzzzzzzzzzzzzzzzzzzzzzzzzzz}
+[06:52:17] [Server thread/INFO]: FaacuXx7 has made the advancement [Acquire Hardware]
+[06:52:39] [Server thread/INFO]: FaacuXx7 has made the advancement [Suit Up]
+[06:52:40] [Server thread/INFO]: GiovanyBy14 has made the advancement [Suit Up]
+[06:52:53] [Server thread/INFO]: [Noxxxx: Applied effect Invisibility to 4 targets]
+[06:53:35] [Server thread/INFO]: [Noxxxx: Applied effect Glowing to 4 targets]
+[06:53:40] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=8, y=93, z=-31} gh{x=8, y=93, z=-32}
+[06:53:51] [Server thread/WARN]: FaacuXx7 moved too quickly! -6.225450216806742,-7.293512139530577,3.0396599390721804
+[06:55:12] [Server thread/INFO]: GiovanyBy14 lost connection: Disconnected
+[06:55:12] [Server thread/INFO]: GiovanyBy14 left the game
+[06:58:12] [Server thread/INFO]: [Noxxxx: Set own game mode to Spectator Mode]
+[06:58:20] [Server thread/INFO]: [Noxxxx: Teleported Noxxxx to FaacuXx7]
+[06:58:23] [Server thread/INFO]: [Noxxxx: Teleported Noxxxx to FaacuXx7]
+[06:59:13] [Server thread/INFO]: [Noxxxx: Teleported FaacuXx7 to Noxxxx]
+[06:59:28] [Server thread/INFO]: [Noxxxx: Teleported FaacuXx7 to Noxxxx]
+[06:59:58] [Server thread/INFO]: [Noxxxx: Set own game mode to Creative Mode]
+[07:00:37] [Server thread/INFO]: nicolasxpazx has made the advancement [Acquire Hardware]
+[07:01:10] [Server thread/INFO]: FaacuXx7 lost connection: Disconnected
+[07:01:10] [Server thread/INFO]: FaacuXx7 left the game
+[07:01:32] [Server thread/INFO]: [Noxxxx: Applied effect Fire Resistance to nicolasxpazx]
+[07:03:01] [Server thread/INFO]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
